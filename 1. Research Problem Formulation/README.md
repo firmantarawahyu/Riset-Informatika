@@ -1,6 +1,6 @@
 <h1 align="center">Optimasi Model Convolutional Neural Network (CNN) Berbasis MobileNetV3 untuk Klasifikasi Penyakit Kulit Ringworm Pada Kucing Menggunakan Metode Transfer Learning</h1>
 
-<h2 align="center">BAB I <br/> Pendahuluan</h2>
+<h2>BAB I <br/> Pendahuluan</h2>
 
 <h3>1.1 Latar Belakang</h3>
 <p>
